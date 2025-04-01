@@ -1,0 +1,139 @@
+[
+  {
+    "id": "UXpboK",
+    "receipt": {
+      "date": "03-10-2024",
+      "time": "06:11 AM",
+      "total": 36.91,
+      "subtotal": 34.5,
+      "tax%": 7,
+      "order": [
+        {
+          "name": "Orange Chicken",
+          "QTY": 2,
+          "price": 12.0
+        },
+        {
+          "name": "Roti Prata",
+          "QTY": 3,
+          "price": 2.0
+        },
+        {
+          "name": "Fried Rice",
+          "QTY": 1,
+          "price": 4.5
+        }
+      ]
+    }
+  },
+  {
+    "id": "7YSZeQ",
+    "receipt": {
+      "date": "03-10-2024",
+      "time": "06:11 AM",
+      "total": 10.7,
+      "subtotal": 10.0,
+      "tax%": 7,
+      "order": [
+        {
+          "name": "Chicken Rice",
+          "QTY": 2,
+          "price": 5.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "ZH6iDF",
+    "receipt": {
+      "date": "05-10-2024",
+      "time": "12:50 PM",
+      "total": 38.52,
+      "subtotal": 36.0,
+      "tax%": 7,
+      "order": [
+        {
+          "name": "Orange Chicken",
+          "QTY": 3,
+          "price": 12.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "w72biH",
+    "receipt": {
+      "date": "05-10-2024",
+      "time": "12:51 PM",
+      "total": 10.7,
+      "subtotal": 10.0,
+      "tax%": 7,
+      "order": [
+        {
+          "name": "Chicken Rice",
+          "QTY": 2,
+          "price": 5.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "8uQWJ2",
+    "receipt": {
+      "date": "06-10-2024",
+      "time": "07:13 AM",
+      "total": 0.0,
+      "subtotal": 0.0,
+      "tax%": 7,
+      "order": []
+    }
+  },
+  {
+    "id": "s2NMec",
+    "receipt": {
+      "date": "13-10-2024",
+      "time": "12:51 PM",
+      "total": 31.57,
+      "subtotal": 29.5,
+      "tax%": 7,
+      "order": [
+        {
+          "name": "Chicken Rice",
+          "QTY": 1,
+          "price": 5.0
+        },
+        {
+          "name": "Nasi Goreng",
+          "QTY": 1,
+          "price": 3.5
+        },
+        {
+          "name": "Roti Prata",
+          "QTY": 1,
+          "price": 2.0
+        },
+        {
+          "name": "Chicken Noodles",
+          "QTY": 1,
+          "price": 7
+        },
+        {
+          "name": "Orange Chicken",
+          "QTY": 1,
+          "price": 12.0
+        }
+      ]
+    }
+  },
+  {
+    "id": "DtAdn4",
+    "receipt": {
+      "date": "05-11-2024",
+      "time": "05:35 PM",
+      "total": 0.0,
+      "subtotal": 0,
+      "tax%": 7,
+      "order": []
+    }
+  }
+]
