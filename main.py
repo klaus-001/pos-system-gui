@@ -54,15 +54,15 @@ class POSsystem:
 		self.screen.place(x=300, y=100, width=200, height=300)
 		
 		self.amount_label = Label(self.window,
-								 text=f'Total:' +
-									  f'\nReceived:' +
-									  f'\n--------------------------------------' +
-									  f'\nChange:',
-								 font=('Arial', 12),
-								 fg='white',
-								 bg='black',
-								 justify='left',
-								 anchor='nw')
+								  text=f'Total:' +
+									   f'\nReceived:' +
+									   f'\n--------------------------------------' +
+									   f'\nChange:',
+								  font=('Arial', 12),
+								  fg='white',
+								  bg='black',
+								  justify='left',
+								  anchor='nw')
 								 
 		self.amount_label.place(x=300, y=400, width=200, height=100)
 		
@@ -91,29 +91,29 @@ class POSsystem:
 		self.frame2.place(x=0, y=400, width=300, height=100)
 		
 		self.cancel_button = Button(self.frame2,
-							 text='cancel',
-							 bg='red',
-							 width=8,
-							 height=3,
-							 command=self.cancel)
+							 		text='cancel',
+							 		bg='red',
+							 		width=8,
+							 		height=3,
+							 		command=self.cancel)
 							 
 		self.cancel_button.grid(row=0, column=0, padx=7, pady=20)
 		
 		self.clear_button = Button(self.frame2,
-							text='clear',
-							bg='yellow',
-							width=8,
-							height=3,
-							command=self.clear)
+								   text='clear',
+								   bg='yellow',
+								   width=8,
+								   height=3,
+								   command=self.clear)
 							
 		self.clear_button.grid(row=0, column=1)
 		
 		self.submit_button = Button(self.frame2,
-							 text='submit',
-							 bg='green',
-							 width=8,
-							 height=3,
-							 command=self.submit)
+							 		text='submit',
+							 		bg='green',
+							 		width=8,
+							 		height=3,
+							 		command=self.submit)
 							 
 		self.submit_button.grid(row=0, column=2, padx=7)
 		
