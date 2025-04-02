@@ -232,9 +232,9 @@ class POSsystem:
 				order_text += f'{key} x{value}\n${price:.2f}\n'
 					
 			self.screen.config(text=order_text,
-								font=('Arial', 9),
-								justify='left',
-								anchor='nw')
+							   font=('Arial', 9),
+							   justify='left',
+							   anchor='nw')
 			
 		else:
 			self.screen.config(text='',
