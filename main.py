@@ -118,10 +118,10 @@ class POSsystem:
 		self.submit_button.grid(row=0, column=2, padx=7)
 		
 		self.mode_button = Button(self.frame2,
-						   text='card/cash',
-						   width=8,
-						   height=3,
-						   command=self.payment_mode)
+						   		  text='card/cash',
+						   		  width=8,
+						   		  height=3,
+						   		  command=self.payment_mode)
 						   
 		self.mode_button.grid(row=0, column=3)
 		
