@@ -135,5 +135,22 @@
       "tax%": 7,
       "order": []
     }
+  },
+  {
+    "id": "tkBIgw",
+    "receipt": {
+      "date": "12-05-2025",
+      "time": "07:39 PM",
+      "total": 5.35,
+      "subtotal": 5.0,
+      "tax%": 7,
+      "order": [
+        {
+          "name": "Chicken Rice",
+          "QTY": 1,
+          "price": 5.0
+        }
+      ]
+    }
   }
 ]
