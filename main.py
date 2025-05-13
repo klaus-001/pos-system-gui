@@ -12,11 +12,6 @@ class POSsystem:
 	def __init__(self, window):
 		self.window = window
 		
-		self.window.geometry('500x500')
-		self.window.resizable(False, False)
-		
-		self.window.title('POS System')
-		
 		# Initialize file path
 		self.file_path = 'sales_record.json'
 		
@@ -34,6 +29,11 @@ class POSsystem:
 		self.create_widgets()
 		
 	def create_widgets(self):
+		self.window.geometry('500x500')
+		self.window.resizable(False, False)
+		
+		self.window.title('POS System')
+		
 		# Create display screen
 		self.order_label = Label(self.window,
 								 text='Order:',
